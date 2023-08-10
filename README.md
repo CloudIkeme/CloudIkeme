@@ -1,13 +1,13 @@
-### Hi, I'm Victor Ikeme - aka [CloudIkeme] <!---[website] ---> 👋
+### Hi, I'm Victor Ikeme - aka [CloudIkeme] 👋
 
-## I'm an SRE, DevOps and Kubernetes Engineer From Africa ; With a passion for all things: 
-- ## Cloud-Native,
-- ## OpenSource Community,
+## I'm an SRE, DevSecOps and Kubernetes Engineer From Africa ; With a passion for all things: 
+- ## ☁️ Cloud-Native,
+- ## 🤝 OpenSource Community,
 - ## ✍️ Technical Writing and,
-- ## The Growth Of the African Tech Ecosystem.
+- ## 💻 Growth Of the African Tech Ecosystem.
 
 - 🔭 I’m currently working on a variety of projects in the CNCF Landscape!
-- 🌱 I’m currently learning more about kubernetes and its integration of tools(projects) from the CNCF landscape  🤣
+- 🌱 I’m learning more about kubernetes and its integration with other tools(projects) from the CNCF landscape.
 - 👯 I’m looking to collaborate with other contributors and be a part of the community
 - ⚡ I enjoy learning , building and contributing! 
 
