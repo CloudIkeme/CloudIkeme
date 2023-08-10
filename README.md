@@ -1,17 +1,13 @@
 ### Hi, I'm Victor Ikeme - aka [CloudIkeme][website] 👋
 
-## I'm an SRE, DevOps and Kubernetes Engineer From Africa ; With a passion for all things 
-- Cloud-Native,
-- OpenSource Contributions,
-- ✍️ Technical Writing and, 
-- The Growth Of the African Tech Ecosystem.
+## I'm an SRE, DevOps and Kubernetes Engineer From Africa ; With a passion for all things - Cloud-Native,- OpenSource Contributions,- ✍️ Technical Writing and, - The Growth Of the African Tech Ecosystem.
 
 - 🔭 I’m currently working on a variety of projects in the CNCF Landscape!
 - 🌱 I’m currently learning more about kubernetes and its integration of tools(projects) from the CNCF landscape  🤣
 - 👯 I’m looking to collaborate with other contributors and be a part of the community
 - ⚡ I enjoy learning , building and contributing! 
 
-### Connect with me:
+<!--- ### Connect with me:
 
 [<img align="left" alt="neonmirrors.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="chipzoller | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -39,9 +35,9 @@
 
 ---
 
-[website]: https://neonmirrors.net
+<!--- [website]: https://neonmirrors.net
 [twitter]: https://twitter.com/chipzoller
-[linkedin]: https://linkedin.com/in/chipzoller
+[linkedin]: https://linkedin.com/in/chipzoller --->
 
 <!--
 **CloudIkeme/CloudIkeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
