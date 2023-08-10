@@ -1,4 +1,4 @@
-### Hi, I'm Victor Ikeme - aka [CloudIkeme][Check out Victor Ikeme’s profile on LinkedIn https://ng.linkedin.com/in/victor-ikeme-838457232] 👋
+### Hi, I'm Victor Ikeme - aka [CloudIkeme](https://ng.linkedin.com/in/victor-ikeme-838457232) 👋
 
 ## I'm an SRE, DevSecOps and Kubernetes Engineer From Africa ; With a passion for all things: 
 - ## ☁️ Cloud-Native,
