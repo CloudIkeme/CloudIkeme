@@ -1,6 +1,10 @@
-### Hi, I'm Victor Ikeme - aka [CloudIkeme][website] 👋
+### Hi, I'm Victor Ikeme - aka [CloudIkeme] <!---[website] ---> 👋
 
-## I'm an SRE, DevOps and Kubernetes Engineer From Africa ; With a passion for all things - Cloud-Native,- OpenSource Contributions,- ✍️ Technical Writing and, - The Growth Of the African Tech Ecosystem.
+## I'm an SRE, DevOps and Kubernetes Engineer From Africa ; With a passion for all things: 
+- ## Cloud-Native,
+- ## OpenSource Community,
+- ## ✍️ Technical Writing and,
+- ## The Growth Of the African Tech Ecosystem.
 
 - 🔭 I’m currently working on a variety of projects in the CNCF Landscape!
 - 🌱 I’m currently learning more about kubernetes and its integration of tools(projects) from the CNCF landscape  🤣
@@ -26,11 +30,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [One-Time Pass Codes for Kyverno...With Quotas!](https://neonmirrors.net/post/2023-08/one-time-pass-codes-with-quotas/)
+<!--- [One-Time Pass Codes for Kyverno...With Quotas!](https://neonmirrors.net/post/2023-08/one-time-pass-codes-with-quotas/)
 - [Experimental Generic JSON Validation with Kyverno](https://neonmirrors.net/post/2023-07/experimental-generic-json-validation-with-kyverno/)
 - [Scheduled Mutations with Kyverno](https://neonmirrors.net/post/2023-07/scheduled-kyverno-mutations/)
 - [One-Time Pass Codes for Kyverno](https://neonmirrors.net/post/2023-06/one-time-pass-codes-for-kyverno/)
-- [Signing and Automating Policy Exceptions](https://neonmirrors.net/post/2023-03/signing-and-automating-policy-exceptions/)
+- [Signing and Automating Policy Exceptions](https://neonmirrors.net/post/2023-03/signing-and-automating-policy-exceptions/) --->
 <!-- BLOG-POST-LIST:END -->
 
 ---
